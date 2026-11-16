@@ -1,0 +1,8 @@
+｜｜DSML｜｜ calls>
+<｜｜DSML｜｜ invoke name="cordis_inspect_query">
+<｜｜DSML｜｜ parameter name="input" string="true">{"service":"settings"}</｜｜DSML｜｜ parameter>
+<｜｜DSML｜｜ parameter name="method" string="true">listService</｜｜DSML｜｜ parameter>
+<｜｜DSML｜｜ parameter name="platform" string="true">host</｜｜DSML｜｜ parameter>
+<｜｜DSML｜｜ parameter name="provider" string="true">Service</｜｜DSML｜｜ parameter>
+</｜｜DSML｜｜ invoke>
+</｜｜DSML｜｜ calls>

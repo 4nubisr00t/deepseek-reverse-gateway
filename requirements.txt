@@ -1,0 +1,11 @@
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+curl_cffi>=0.7.0
+pydantic>=2.6.0
+pydantic-settings>=2.2.0
+# 精确 Token 计量 (app/core/tokenizer.py)。缺失时静默降级为规则分词，
+# 会显著低估 Token 用量，因此必须显式声明。
+tiktoken>=0.14.0
+pyjwt>=2.8.0
+bcrypt>=4.0.0
+

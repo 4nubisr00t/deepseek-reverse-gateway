@@ -1,0 +1,13 @@
+{
+  "host": "0.0.0.0",
+  "port": 8000,
+  "admin_password": "change_this_admin_password",
+  "require_api_key": true,
+  "cooldown_seconds": 3.0,
+  "max_session_turns": 15,
+  "proxy": "http://127.0.0.1:7890",
+  "proxies": [],
+  "relogin_proxies": [],
+  "client_platform": "ios",
+  "accounts": []
+}
